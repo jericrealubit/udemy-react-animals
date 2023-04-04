@@ -1,5 +1,8 @@
 
-URL: https://udemy-react-animals.netlify.app/
+### URL: https://udemy-react-animals.netlify.app/
+
+1. Click the "Add Animal" button
+2. Click the animal you like and see the heart increase in size
 
 # Getting Started with Create React App
 
